@@ -36,3 +36,22 @@ Description: Local context for agents and humans
  It stores markdown notes and local retrieval indices in a context artifact
  that you can use through the CLI, MCP, or installable skills.
 
+Package: ctx
+Version: 0.1.5-1
+Architecture: amd64
+Maintainer: Satori Engineering Co.
+Installed-Size: 30338
+Depends: libc6 (>= 2.38), libc6 (>= 2.39), libssl3t64 (>= 3.0.0)
+Filename: pool/main/c/ctx/ctx_0.1.5_amd64.deb
+Size: 8845028
+MD5sum: dafff34291e3bd6d8b252fcd5d854e86
+SHA1: ccab61fc330f8cd740777f2baa579fd68d364299
+SHA256: 95c42e1a3c9872e57b3a5c72a68c8637378ebafadd8e687c999df842ef122902
+Section: utils
+Priority: optional
+Homepage: https://github.com/satoricorp/ctx
+Description: Local context for agents and humans
+ ctx is local context for agents and humans.
+ It stores markdown notes and local retrieval indices in a context artifact
+ that you can use through the CLI, MCP, or installable skills.
+
